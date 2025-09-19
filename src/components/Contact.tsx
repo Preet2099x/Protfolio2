@@ -139,7 +139,7 @@ const Contact = () => {
               <h3 className="text-xl font-semibold mb-4">Connect With Me</h3>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/Preet2009" 
+                  href="https://github.com/Preet2099x" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center justify-center text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-100 transition-all duration-300 transform hover:scale-110"
